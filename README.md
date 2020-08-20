@@ -1,6 +1,6 @@
 # CUSTOMER QUEUE MANAGEMENT SYSTEM WITH JAVA
 
-A simple QAM with java that will help a customer to be served accordingly to time of arriving in the shop
+A simple CQMS with java that will help a customer to be served accordingly to time of arriving in the shop
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ JDK latest
 
 ## Versioning
 
-This is the first version of QAS with java
+This is the first version of CQMS with java
 
 ## Authors
 
